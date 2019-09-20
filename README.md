@@ -21,3 +21,6 @@ The purpose of the project is to build a model that is able to classify news hea
 ## Word Cloud Visualization of news headline categories:
 
 ![Health](images/Health-news.png)
+
+
+[![Watch the video](https://www.youtube.com/watch?v=4s--dvEixVY)
