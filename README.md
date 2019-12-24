@@ -1,5 +1,8 @@
 # News Classification 
 
+This repository has been adapted from [Mayank-Bhatia](https://github.com/Mayank-Bhatia/News-Classification) check it out!
+
+
 The purpose of the project is to build a model that is able to classify news headline. In this project  we will cover:
 
 - Analytics
